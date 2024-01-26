@@ -1,0 +1,1 @@
+The focus of our project is to investigate whether tweets can have a manipulative effect on the price of Bitcoin. To do this research, we aimed to develop a model using Multi-Layer Perceptron and BERT Transform. 
